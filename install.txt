@@ -1,0 +1,3 @@
+Run the deploy script.
+
+You need bash installed.
