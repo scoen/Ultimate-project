@@ -1,3 +1,5 @@
 Run the deploy script.
 
 You need bash installed.
+
+YOU REALLY NEED BASH INSTALLED NO JOKE!
